@@ -1,12 +1,12 @@
-### Hi there, I'm  [Mominul Asif] 👋
+# Mominul Asif👋
 
 ## I'm a JavaScript Lover
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Cloud computing, Software architechture, Microservice.
-- ⚡ Fun fact: I love to Explore the world
+- 🥅 2021 Goals: React Developer and Full stack Web developer.
+- ⚡ Fun fact: I love Music
 - 💬 Ask me about anything
 
-### 📖 About me
+## 📖 About me
 
 A full-stack javascript developer and a competitive programmer with a tremendous amount of interest in programming. Currently I am working on the MERN stack. I have developed some good-quality projects. I also have good knowledge of Object-Oriented Programming and Programming problem-solving. 
 
@@ -47,8 +47,6 @@ A full-stack javascript developer and a competitive programmer with a tremendous
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ToufiqurRahmanTamkin&theme=merko">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiqurrahmantamkin&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
