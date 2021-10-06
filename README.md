@@ -12,7 +12,7 @@ I'm a CSE Background student. Learning Web Development. Currenty I have skills i
 - 📫 How to reach me: Via Gmail 
 - ⚡ Fun fact: I'm Very NOOB 
 
-<br><br>
+</br></br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
