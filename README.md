@@ -12,6 +12,9 @@ A full-stack javascript developer and a competitive programmer with a tremendous
 
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=momin4948)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Connect with me:
 
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/toufiqur-rahman-tamkin-42a167160/) 
